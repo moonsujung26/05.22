@@ -1,0 +1,214 @@
+.tit>ul {
+
+    line-height: 24px;
+}
+
+.main_banner {
+    padding: 120px 0;
+
+}
+
+.main_banner .tit {
+
+    width: 1170px;
+    margin: 0 auto 40px auto;
+}
+
+.main_banner .tit h2 {
+
+    font-family: 'GmarketSans';
+    font-weight: 700;
+    font-size: 32px;
+    margin: 0 0 16px 0;
+}
+
+
+.main_banner .tit p {
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.main_banner .inner {
+
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+}
+
+.main_banner .inner>* {
+    flex: 1;
+
+}
+
+.main_detail {
+
+    padding: 120px 0;
+    background: #f9f9f9;
+}
+
+.main_detail .tit {
+    width: 1170px;
+    margin: 0 auto 40px auto;
+}
+
+
+.main_detail .tit h2 {
+    font-family: 'GmarketSans';
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+}
+
+.main_detail .tit p {
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.main_detail .inner {
+
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+}
+
+.main_detail.inner figure {
+
+    flex: 1;
+}
+
+.main_content {
+
+    padding: 120px 0;
+
+}
+
+.main_content .inner {
+
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+}
+
+.main_content .inner>* {
+    flex: 1;
+}
+
+
+.main_content .tit {
+
+    padding: 24px 0 0 0;
+}
+
+.main_content .tit h2 {
+    font-family: 'GmarketSans';
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+
+}
+
+
+.main_content .tit p {
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.main_content .right img {
+
+    border-radius: 16px;
+
+}
+
+.main_notice {
+
+    padding: 120px 0;
+    background: #f9f9f9;
+}
+
+.main_notice .inner {
+    display: flex;
+    gap: 30px;
+    width: 1170px;
+    margin: 0 auto;
+
+}
+
+.main_notice .inner>* {
+
+    flex: 1;
+
+}
+
+.main_notice .inner .desc {
+
+    order: -1;
+
+}
+
+.main_notice .tit {
+    padding: 24px 0 0 0;
+    text-align: right;
+}
+
+.main_notice .tit h2 {
+    font-family: 'GmarketSans';
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+}
+
+.main_notice .tit p {
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.main_notice .desc img {
+
+    border-radius: 16px;
+}
+
+.main_event {
+    padding: 120px 0;
+}
+
+.main_event .tit {
+    text-align: center;
+    margin: 0 0 40px 0;
+}
+
+.main_event .tit h2 {
+    font-family: 'GmarketSans';
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0 0 16px 0;
+}
+
+.main_event .tit p {
+
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+.main_event .inner {
+
+    display: flex;
+    gap: 30px;
+}
+
+.main_event .inner>* {
+
+    flex: 1;
+
+}
